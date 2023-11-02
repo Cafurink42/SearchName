@@ -18,6 +18,7 @@
     <div id = "resultado" style="background-color: blue;">
 
     </div>
+
 </body>
 <script src = "get_data.js" type = "text/javascript"></script>
 
@@ -26,14 +27,7 @@
 
 
 <?php
-/*
-echo phpinfo();
 
-
-define ("OI_MUNDO","OI MUNDOO");
-echo "A tradução de Hello World é ". OI_MUNDO;
-echo "Essa linha de código é a ". __LINE__  . __NAMESPACE__;
-*/
 include_once ('conn.php');
 
 
